@@ -1,0 +1,26 @@
+*, *::after, *::before {
+    
+    box-sizing: border-box;
+    
+    }
+
+    
+p {
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-size: 1.2em;
+}
+
+h1 h2 {
+    font-family: 'PT Sans Caption', sans-serif;
+}
+
+h1 {
+
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 1.8em;
+    font-weight: 100;
+    font-style: italic;
+}
