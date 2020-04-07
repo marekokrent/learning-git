@@ -3,7 +3,22 @@
     box-sizing: border-box;
     
     }
+body {
+    margin: 0;
+    padding: 0;
+}
 
+.container {
+    margin: 0 auto;
+    padding: 0 150px;
+    max-width: 800px;
+
+}
+
+section {
+    padding: 100px 0;
+    
+}
     
 p {
     font-family: 'Baloo Tammudu 2', cursive;
