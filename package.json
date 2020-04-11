@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/marekokrent/learning-git#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.7"
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.7",
+    "html-validate": "^2.20.0"
   }
 }
